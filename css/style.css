@@ -1,0 +1,62 @@
+body {
+  background-color: white;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 1.5em;
+}
+.profile-pic{
+  border-radius: 50%;
+}
+
+.bottom-container {
+
+}
+
+.bottomCloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+h1{
+  font-family: 'Sacramento', cursive;
+  font-size: 5rem;
+  margin: 50px auto 0 auto;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+}
+h3
+{
+  font-family: 'Montserrat', sans-serif;
+}
+
+.span {
+  text-decoration: underline;
+}
+
+.top-most {
+  background-color: #d4f3ef;
+  padding-top: 100px;
+  font-family: 'Dancing Script', cursive;
+}
+
+.topCloud {
+  position: absolute;
+  right:  350px;
+  top:50px;
+}
+
+.top-container {
+
+}
+.web-dev{
+  height: 200px;
+  width: 150px;
+}
+.programming-skill{
+  height: 200px;
+  width: 200px;
+}
